@@ -40,8 +40,8 @@ PRODUCT_COPY_FILES += \
   vendor/htc/dlx/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
   vendor/htc/dlx/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
   vendor/htc/dlx/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-  vendor/htc/dlx/proprietary/lib/hw/nfc.jet.so:system/lib/hw/nfc.dlx.so \
-  vendor/htc/dlx/proprietary/lib/hw/sensors.jet.so:system/lib/hw/sensors.dlx.so \
+  vendor/htc/dlx/proprietary/lib/hw/nfc.dlx.so:system/lib/hw/nfc.dlx.so \
+  vendor/htc/dlx/proprietary/lib/hw/sensors.dlx.so:system/lib/hw/sensors.dlx.so \
   vendor/htc/dlx/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
   vendor/htc/dlx/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
   vendor/htc/dlx/proprietary/lib/libchromatix_s5k3h2yx_default_video.so:system/lib/libchromatix_s5k3h2yx_default_video.so \
